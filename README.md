@@ -4,7 +4,7 @@
 * Emilio Moran Jesus Valdebenito  Rol: 202473575-6  Paralelo: 201
 * Adrian Alejandro Rangel Morales  Rol: 202373631-7  Paralelo: 201
 
-## Esecificacion de los algoritmos y Desarrollo 
+## Especificacion de los algoritmos y Desarrollo 
 
 1. Analisis de Estados: Se construyo la tabla de verdad asociando las 16 combinaciones posibles a sus respectivos simbolos de runa (del 0 al 15).
 2. Minimizacion: Se emplearon Mapas de Karnaugh de 4 variables para cada segmento del display, extrayendo las funciones minimizadas.
