@@ -12,7 +12,7 @@
 
 ## Supuestos Utilizados
 * Se asume que el Display de 7 Segmentos opera con logica positiva (1 = HIGH, 0 = LOW).
-* Se asume que las entradas del panel siempre enviarán una señal estable de 0 o 1, descartando valores flotantes.
+* Se asume que las entradas del panel siempre enviaran una señal estable de 0 o 1, descartando valores flotantes.
 * El circuito se hizo exclusivamente mediante logica combinacional, asumiendo que no se requiere sincronismo ni almacenamiento de estados.
 
 ## Instrucciones de Ejecucion
